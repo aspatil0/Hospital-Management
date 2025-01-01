@@ -1,2 +1,1 @@
-# hospital-Management
-hey , i build up a amazing hospital management site for practice purpose. i use HTML CSS and JS for building this website. 
+CONTACT ON 8669792979 FO FULL CODE AND THE DETAILS ITS ALL FREE OF COST SO DONT WORRK JUST BEACAUSE OF RESON THAT COPY ISSUES I AVOID TO UPLOAD WHOLE CODE OF MY BUSINESS SITE
